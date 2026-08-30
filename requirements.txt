@@ -1,0 +1,8 @@
+python-whois>=0.9.4
+dnspython>=2.6.1
+requests>=2.31.0
+rich>=13.7.0
+ipwhois>=1.2.0
+confusables>=1.2.0
+python-dateutil>=2.9.0
+beautifulsoup4>=4.12.0
